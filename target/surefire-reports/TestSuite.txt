@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 1, Errors: 0, Skipped: 17, Time elapsed: 9.648 s <<< FAILURE! - in TestSuite
+com.tieto.test.LoginTest.init[ff](0)  Time elapsed: 7.789 s  <<< FAILURE!
+java.lang.NullPointerException: null value in entry: url=null
+
